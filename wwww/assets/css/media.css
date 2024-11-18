@@ -1,0 +1,13 @@
+@media screen and (max-width: 1400px){
+    .cart {
+        display: inline-block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .cart-box {
+        margin-bottom: 100px;
+    }
+    .Cart > wrapper {
+        height:1000px;
+    }
+}
